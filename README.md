@@ -6,4 +6,4 @@ L'application coté client front.
 
 En cours : 
 
-Notification, serveur, application coté livreur 
+Notification, serveur, application coté livreur.
